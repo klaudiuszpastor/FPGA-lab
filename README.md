@@ -1,1 +1,1 @@
-# FPGA-lab
+# FPGA projects course at MS studies - Electronics and Telecommunications 
